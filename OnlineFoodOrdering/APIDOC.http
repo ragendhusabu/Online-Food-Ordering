@@ -1,0 +1,34 @@
+
+###
+GET http://127.0.0.1:8000/about/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/restaurants/
+Accept: application/json
+
+# API call for food menu
+###
+GET http://127.0.0.1:8000/menu/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/categories/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/customers/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/orders/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/deliveries/
+Accept: application/json
